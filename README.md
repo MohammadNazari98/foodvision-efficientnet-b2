@@ -30,7 +30,9 @@ PyTorch
 Torchvision
 Streamlit
 
-## 
+## Demo screenshot
+![FoodVision Demo](images/demo.png)
+
 ## 🚀 Live Demo
 Try the FoodVision classifier:
 ![Open in Streamlit](https://foodvision-efficientnet-b2-gfrfqtfhqxqgjqw3pmag6l.streamlit.app/)
